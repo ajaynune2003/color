@@ -1,0 +1,70 @@
+
+
+.gym{
+    background-image: url(./virat.jpeg) ;
+    background-size: 60vh;
+    background-repeat: repeat-x;
+   height: 40vh;
+   text-align: center;
+   color: white;
+   text-decoration: 2px black underline ;
+   text-shadow: 2px 2px 3px white;
+   text-transform: uppercase;
+   
+}
+.head2{
+    position: absolute;
+    top: 30%;
+}
+.head3{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    text-transform:lowercase
+}
+.head4{
+    background-color: lightblue;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: 2px dotted red underline;
+    text-shadow: 1px 1px 1px black;
+}
+
+
+.color{
+    text-align: center;
+    background: linear-gradient( yellow, blue ,red);
+    height: 150vh;
+    width: 100%;
+
+
+ 
+}
+.middle{
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 2px solid black; 
+    color: blue;
+    background-color: white;
+    
+
+
+
+
+}
+.silver{
+    margin-left: 500px;
+    margin-right: 500px; 
+   margin-top: 30px;
+    border: 2px solid black;
+    color: blue; 
+    background-color: white;
+}
+.gold{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 30px;
+    border: 2px solid black; 
+    color: blue;
+    background-color: white;
+}
